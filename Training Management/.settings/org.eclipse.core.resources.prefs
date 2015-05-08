@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/uno/personnel/service/PositionSkilMgmtServiceImplService.java=UTF-8
+encoding//src/uno/personnel/service/PositionSkilMgmtServiceImplServiceLocator.java=UTF-8
+encoding//src/uno/personnel/service/PositionSkill.java=UTF-8
+encoding//src/uno/personnel/service/PositionSkillMgmtService.java=UTF-8
+encoding//src/uno/personnel/service/PositionSkillMgmtServicePortBindingStub.java=UTF-8
+encoding//src/uno/vendor/service/AreaCall.java=UTF-8
+encoding//src/uno/vendor/service/CatalogServices.java=UTF-8
+encoding//src/uno/vendor/service/CatalogServicesImpl.java=UTF-8
+encoding//src/uno/vendor/service/CatalogServicesImplPortBindingStub.java=UTF-8
+encoding//src/uno/vendor/service/CatalogServicesLocator.java=UTF-8
+encoding//src/uno/vendor/service/CourseInfo.java=UTF-8
+encoding//src/uno/vendor/service/CourseInfoResponse.java=UTF-8
+encoding//src/uno/vendor/service/CourseInfoVO.java=UTF-8
+encoding//src/uno/vendor/service/RecommendCourse.java=UTF-8
+encoding//src/uno/vendor/service/RecommendCourseResponse.java=UTF-8
